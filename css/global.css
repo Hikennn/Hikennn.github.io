@@ -1,0 +1,14 @@
+:root {
+    --color_primary: #0065FC; 
+    --color_secondary: #DEEBFF;
+    --color_background: #F2F2F2;
+}
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+html, body{
+    font-family: 'Raleway', sans-serif;
+    scroll-behavior: smooth;
+}
